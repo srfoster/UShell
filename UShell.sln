@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{169C5937-43EE-2FF6-2700-0953FB084E26}") = "UShell", "Assembly-CSharp.csproj", "{1AC34DED-6E4F-C762-B37F-FE5EB692154B}"
+EndProject
+Project("{169C5937-43EE-2FF6-2700-0953FB084E26}") = "UShell", "Assembly-UnityScript-firstpass.unityproj", "{A3D54FB3-BE4E-B846-0896-89D967B6B624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC34DED-6E4F-C762-B37F-FE5EB692154B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC34DED-6E4F-C762-B37F-FE5EB692154B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC34DED-6E4F-C762-B37F-FE5EB692154B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC34DED-6E4F-C762-B37F-FE5EB692154B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D54FB3-BE4E-B846-0896-89D967B6B624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D54FB3-BE4E-B846-0896-89D967B6B624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D54FB3-BE4E-B846-0896-89D967B6B624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D54FB3-BE4E-B846-0896-89D967B6B624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
