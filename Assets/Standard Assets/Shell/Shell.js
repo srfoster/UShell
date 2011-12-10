@@ -1,3 +1,4 @@
+/* See the copyright information at https://github.com/srfoster/UShell/blob/master/COPYRIGHT */
 import System.Diagnostics;
 
 public class Shell
