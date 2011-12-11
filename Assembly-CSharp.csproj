@@ -44,7 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\UShell\Example.cs" />
+     <Compile Include="Assets\Vendor\UShell\Example.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
